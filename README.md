@@ -1,11 +1,7 @@
 <div id="header" align="center">
         <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="250">
         <h1>Hello✌️, this is the Estiven profile, </h1>
-        <h3 align="center">He's a software developer student. Estiven is very passionate about the world of development
-            and learning all kinds
-            of technologies. I lean much more towards the backend side, although Estiven not solely satisfied with that.
-            The most advanced project is an E-commerce clothing store in which we use React Native, MongoDB as the
-            database, and NodeJS for the backend
+        <h3 align="center">He's a software development student. Estiven is very passionate about the world of development and learning all kinds of technologies. He leans much more towards the backend side, although he's not solely satisfied with that. His most advanced project is an E-commerce clothing store in which they use React Native, MongoDB as the database, and NodeJS for the backend.
         </h3>
     </div>
 
