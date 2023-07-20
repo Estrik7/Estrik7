@@ -19,6 +19,7 @@
     - 🤔 I’m looking for help with ...
     - 💬 Ask me about **MongoDB**
     - 📫 How to reach me: **stiven_libre@hotmail.com**
+    ---
     <div align="left">
         <h3>🧩Lenguages and Tools</h3>
         <div>
