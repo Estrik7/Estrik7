@@ -17,11 +17,14 @@
     - 💬 Ask me about **MongoDB**
     - 📫 How to reach me: **stiven_libre@hotmail.com**
 
+
+
 <div align="left">
         <h3>🧩Lenguages and Tools</h3>
         <div>
-            <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="">
-            <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="">
-            <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="">
+            <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" width="40" height="40">
+            <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="40" height="40">
+            <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40">
+            <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="40" height="40">
         </div>
     </div>
