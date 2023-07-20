@@ -9,9 +9,8 @@
             database, and NodeJS for the backend
         </h3>
     </div>
-    ---
 
-
+---
     ### About Me:
 
     - 🔭 I’m currently working on personal projects
@@ -19,8 +18,10 @@
     - 🤔 I’m looking for help with ...
     - 💬 Ask me about **MongoDB**
     - 📫 How to reach me: **stiven_libre@hotmail.com**
-    ---
-    <div align="left">
+
+
+
+<div align="left">
         <h3>🧩Lenguages and Tools</h3>
         <div>
             <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="">
@@ -28,3 +29,4 @@
             <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="">
         </div>
     </div>
+</body>
