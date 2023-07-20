@@ -1,5 +1,4 @@
-<body>
-    <div id="header" align="center">
+<div id="header" align="center">
         <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="250">
         <h1>Hello✌️, this is the Estiven profile, </h1>
         <h3 align="center">He's a software developer student. Estiven is very passionate about the world of development
@@ -10,7 +9,6 @@
         </h3>
     </div>
 
----
     ### About Me:
 
     - 🔭 I’m currently working on personal projects
@@ -18,8 +16,6 @@
     - 🤔 I’m looking for help with ...
     - 💬 Ask me about **MongoDB**
     - 📫 How to reach me: **stiven_libre@hotmail.com**
-
-
 
 <div align="left">
         <h3>🧩Lenguages and Tools</h3>
@@ -29,4 +25,3 @@
             <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="">
         </div>
     </div>
-</body>
