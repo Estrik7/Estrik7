@@ -26,34 +26,34 @@
 
 ### Backend & API Development
 <div>
-    <img src="https://www.svgrepo.com/show/452205/node-dot-js.svg" width="40" height="40" alt="Node.js">
-    <img src="https://www.svgrepo.com/show/374146/typescript.svg" width="40" height="40" alt="TypeScript">
-    <img src="https://nestjs.com/img/logo-small.ede75a6953f7e3737fff62e1b2335a1efde7e508e5b7ca283f8881062ad91c48.svg" width="40" height="40" alt="NestJS">
-    <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="40" height="40" alt="JavaScript">
-    <img src="https://www.python.org/static/community_logos/python-logo.png" width="40" height="40" alt="Python">
-    <img src="https://www.svgrepo.com/show/374130/django.svg" width="40" height="40" alt="Django">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django">
 </div>
 
 ### Frontend Development
 <div>
-    <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="40" height="40" alt="CSS">
-    <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40" alt="HTML">
-    <img src="https://www.svgrepo.com/show/373595/react.svg" width="40" height="40" alt="React">
-    <img src="https://raw.githubusercontent.com/angular/angular.io/main/aio/src/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular">
-    <img src="https://www.svgrepo.com/show/354119/react-native.svg" width="40" height="40" alt="React Native">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native">
 </div>
 
 ### Databases & Cloud Storage
 <div>
-    <img src="https://www.svgrepo.com/show/439231/mongodb.svg" width="40" height="40" alt="MongoDB">
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Postman">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman">
 </div>
 
 ### DevOps & Tools
 <div>
-    <img src="https://www.svgrepo.com/show/354202/docker.svg" width="40" height="40" alt="Docker">
-    <img src="https://www.svgrepo.com/show/380896/git.svg" width="40" height="40" alt="Git">
-    <img src="https://www.svgrepo.com/show/373622/github.svg" width="40" height="40" alt="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
 </div>
 
 ---
@@ -82,21 +82,19 @@ Advanced backend system for GPS fleet management with integrated electronic sign
 
 ---
 
-### 🛍️ **Hell-Paradise E-Commerce**
+### 🛍️ **Hell-Paradise** (E-Commerce Platform)
 **[Repository](https://github.com/Estrik7/Hell-Paradise)**
 
-Full-stack e-commerce platform for alternative clothing and accessories.
+Full-stack e-commerce platform for alternative clothing and accessories with multiple versions and continuous improvements.
 
-**Tech Stack:** React Native, MongoDB, Node.js, Express, Django
+**Tech Stack:** React Native, MongoDB, Node.js, Express, Django, TypeScript, Angular
 
----
-
-### 🛍️ **HellParadise2.0** (Enhanced E-Commerce)
-**[Repository](https://github.com/Estrik7/HellParadise2.0)**
-
-Redesigned and improved version of the e-commerce platform with enhanced UI/UX and functionality.
-
-**Tech Stack:** Django, React, MongoDB, CSS
+**Features:**
+- Complete e-commerce workflow
+- Cross-platform mobile support
+- Secure payment integration
+- Inventory management
+- User authentication
 
 ---
 
