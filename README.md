@@ -155,7 +155,3 @@ Full-stack e-commerce platform for alternative clothing and accessories with mul
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Estrik7&show_icons=true&theme=dark" alt="Estrik7's GitHub stats">
-</p>
-
